@@ -2,6 +2,9 @@
 django-stripe-payments
 ======================
 
+.. IMPORTANT::
+   django-stripe-payments has been renamed, refactored, and re-released as pinax-stripe
+
 
 Development
 -----------
