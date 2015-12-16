@@ -20,5 +20,5 @@ man_pages = [
      [copyright_holder], 1)
 ]
 
-version = pkg_resources.get_distribution("payments").version
+version = "2.0.0"
 release = version
