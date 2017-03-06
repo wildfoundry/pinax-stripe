@@ -41,4 +41,4 @@ script:
 after_success:
   - coveralls
 notifications:
-  slack: pinax:nR1p8bAyjlJUc1CSYn2DT5ps
+  email: false
